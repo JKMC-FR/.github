@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenue sur JKMC 👋</h1>
-<h1 align="center"><br><img src="https://i.ibb.co/nMJJ6hR/82e0dbc4d0edd083d1e7f6b1418dcf81-1.png" width=250></h1>
+<br><img src="https://i.ibb.co/nMJJ6hR/82e0dbc4d0edd083d1e7f6b1418dcf81-1.png" width=250>
 
 ## ✏️⸱ Description  
 JKMC est un serveur Minecraft Minijeux fondé en 2024.  
