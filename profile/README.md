@@ -12,3 +12,7 @@ Soutenir des initiatives éducatives et collaboratives à travers l'utilisation 
 ## 📸 ⸱ Nos réseaux Sociaux  
 - [Discord](https://dsc.gg/jkmc)  
 - [Notre site](https://jkmc.fr)
+- [Tiktok](https://www.tiktok.com/@jkmc.fr)
+- [Instagram](https://www.instagram.com/jkmcfr)
+- [Twitch](https://www.twitch.tv/jkmcfr)
+- [Twitter](https://x.com/jkmcfr)
